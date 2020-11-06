@@ -1,0 +1,16 @@
+body {
+	font-family: 'Arsenal', sans-serif; 
+	background:#fff; 
+	background: url("http://www.fondsecran.eu/pictures/2015/0708/1/orig_141114.jpg")repeat 0px 0px; 
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover; 
+	background-attachment: fixed;
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: bold;
+	color: white;
+}
